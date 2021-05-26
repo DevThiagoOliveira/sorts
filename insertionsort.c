@@ -18,7 +18,7 @@ int main(void){
 		scanf("%d",&inf[i]);
 		system("cls");	
 	}
-	printf("informações gravadas V\n");
+	printf("informaÃ§Ãµes gravadas V\n");
 	imprimir(inf, tam);
 	printf("insertionsort V\n");
 	insertionsort(inf, tam);
